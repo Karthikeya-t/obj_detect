@@ -7,7 +7,7 @@ Data set is from https://public.roboflow.com/object-detection/hard-hat-workers {
 
 create an account in Roboflow to use datasets,get the code and paste that link.
  
- !curl -L "your link" > roboflow.zip; unzip roboflow.zip; rm roboflow.zip
+ > `!curl -L "your link" > roboflow.zip; unzip roboflow.zip; rm roboflow.zip`
  
 
 # results
