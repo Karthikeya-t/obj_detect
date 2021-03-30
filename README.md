@@ -11,7 +11,7 @@ create an account in
  `!curl -L "your link" > roboflow.zip; unzip roboflow.zip; rm roboflow.zip`
  
  
-# [yolov5](https://github.com/ultralytics/yolov5) GIT repo
+ [yolov5](https://github.com/ultralytics/yolov5) GIT repo
 
 # Results
 
