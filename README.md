@@ -14,10 +14,10 @@ create an account in Roboflow to use datasets,get the code and paste that link.
 
 ![](output/helm_000014.jpg)
 
-![](output/1.jpg)
+![](output/1.png)
 
-![](output/2.jpg)
+![](output/2.png)
 
-![](output/4.jpg)
+![](output/4.png)
 
-![](output/5.jpg)
+![](output/5.png)
