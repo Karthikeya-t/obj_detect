@@ -14,10 +14,10 @@ create an account in
  [yolov5](https://github.com/ultralytics/yolov5) GIT repo
  
 #Dataset
-![](output/inp.png)
+![](output/inp.PNG)
 
 #mAP,precision,recall
-![](output/op.png)
+![](output/op.PNG)
 
 # Results
 
